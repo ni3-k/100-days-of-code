@@ -5,7 +5,10 @@
 ### Articles
 1. [Face Detection using OpenCV and Python: A Beginner’s Guide](https://www.superdatascience.com/opencv-face-detection/)
 
+### Django
 
+## Video
+1. [The New Boston Django playlist](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 <!--- ### Podcasts
 
 # Additional Resources on the #100DaysOfCode
